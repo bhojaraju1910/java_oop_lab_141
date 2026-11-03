@@ -7,3 +7,13 @@ oop lab observations
 fabbonaici series 
 
 <img width="1853" height="704" alt="Screenshot 2026-09-29 124634" src="https://github.com/user-attachments/assets/4006edad-85d9-48e2-b5ec-1e591bd58542" />
+
+
+parking 
+
+<img width="1898" height="991" alt="Screenshot 2026-11-03 125516" src="https://github.com/user-attachments/assets/d0c435cc-3d28-4692-b3a7-5dbb7d11b3c2" />
+
+
+railway reservation
+
+<img width="1919" height="1017" alt="Screenshot 2026-11-03 120142" src="https://github.com/user-attachments/assets/d1a1bb33-bf58-4918-aa4a-194086529ae9" />
